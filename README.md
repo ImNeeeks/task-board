@@ -18,4 +18,4 @@ This is a task board application that utilizes HTML/CSS/JS and third party API's
 
 - Task cards can be removed with functioning delete button.
 
-![screeenshot](./assets/taskboardmainpage.jpeg)
+![screeenshot](./assets/images/taskboardmainpage.jpeg)
